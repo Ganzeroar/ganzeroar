@@ -11,8 +11,8 @@
 
 <div class="header">
     <h1>🌟 About Me</h1>
-    <p> 💡  I like to explore new technologies and develop software solutions and quick hacks. <p/>
-    <p> 🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst. <p/>
+    <p> 💡  I like to explore new technologies and develop software solutions and quick hacks.
+     🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst. <p/>
     <p> 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture. <p/>
     <p> ✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles. <p/>
     <p> 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion. <p/>
