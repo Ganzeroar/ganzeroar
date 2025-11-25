@@ -5,7 +5,7 @@
 <h1>🌟 About Me</h1>
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/Ganzeroar?theme=dark&font=baloo&extension=null&ext=activity)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ganzeroar?ext=activity)
 
 <ul>
     <li>💡 I love thoroughly researching and understanding new technologies and digging into their inner workings </li>
