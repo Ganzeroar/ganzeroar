@@ -4,6 +4,9 @@
 <div class="header">
 <h1>🌟 About Me</h1>
 
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.card.workers.dev/Ganzeroar?theme=dark&font=baloo&extension=null))
+
+
 <ul>
     <li>💡 I love thoroughly researching and understanding new technologies and digging into their inner workings </li>
     <li>⚙️ I prefer an engineering approach to problem solving, which involves a comprehensive study of the problem, developing various solutions, and choosing the most optimal one </li>
