@@ -6,6 +6,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ganzeroar)](https://github.com/ryo-ma/github-profile-trophy)
+
 <ul>
     <li>💡 I love thoroughly researching and understanding new technologies and digging into their inner workings </li>
     <li>⚙️ I prefer an engineering approach to problem solving, which involves a comprehensive study of the problem, developing various solutions, and choosing the most optimal one </li>
