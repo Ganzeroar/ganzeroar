@@ -27,3 +27,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+## 📝 Books read
+- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin
+- Clean Coder, The: A Code of Conduct for Professional Programmers by Robert C. Martin
+- Code Complete by Steve Mcconnell
+- Go Programming Language by Alan Donovan and Brian Kernighan
+- Learning Python by Mark Lutz
+- Algorithms by Panos Louridas
+- The Pragmatic Programmer: Your Journey To Mastery by David Thomas and Andrew Hunt
+- The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
+- Pro Git by Scott Chacon and Ben Straub
