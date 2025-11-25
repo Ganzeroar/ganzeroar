@@ -6,7 +6,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap)
 
-<img align="center" src="https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap" width="1000" height="300" alt="...">
+<img align="center" src="https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap" width="1000" height="350" alt="...">
 
 <ul>
     <li>💡 I love thoroughly researching and understanding new technologies and digging into their inner workings </li>
