@@ -4,7 +4,7 @@
 <div class="header">
 <h1>🌟 About Me</h1>
 
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.card.workers.dev/Ganzeroar?theme=dark&font=baloo&extension=null))
+![Leetcode Stats](https://leetcode.card.workers.dev/Ganzeroar?theme=dark&font=baloo&extension=null)
 
 
 <ul>
