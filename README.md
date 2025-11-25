@@ -46,3 +46,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ganzeroar&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap)
+
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green](https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap)" />
+&nbsp;
+</div>
