@@ -41,7 +41,9 @@
     <li>Code: The Hidden Language of Computer Hardware and Software by Charles Petzold </li>
 </ul>
 
+<h1>LeetCode</h1>
+<img align="center" src="https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap" width="1000" height="350" alt="...">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ganzeroar&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="center" src="https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap" width="1000" height="350" alt="...">
 
