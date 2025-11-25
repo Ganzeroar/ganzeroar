@@ -15,7 +15,7 @@
 </ul>
 </div>
 
-### 🛠 My Current Stack:
+<h1>🛠 My Current Stack:</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-## 📝 Books read
+<h1>📝 Books read</h1>
 - Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 - Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin
 - Clean Coder, The: A Code of Conduct for Professional Programmers by Robert C. Martin
