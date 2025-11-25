@@ -1,13 +1,5 @@
-## Hi there, I'm Dmitry 👋
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+<h1 align="center">Hi there 👋, I'm Dmitry</h1>
 
 <div class="header">
     <h1>🌟 About Me</h1>
