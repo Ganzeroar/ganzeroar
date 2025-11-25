@@ -29,17 +29,19 @@
 </div>
 
 <h1>📝 Books read</h1>
-- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-- Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin
-- Clean Coder, The: A Code of Conduct for Professional Programmers by Robert C. Martin
-- Code Complete by Steve Mcconnell
-- Go Programming Language by Alan Donovan and Brian Kernighan
-- Learning Python by Mark Lutz
-- Algorithms by Panos Louridas
-- The Pragmatic Programmer: Your Journey To Mastery by David Thomas and Andrew Hunt
-- The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
-- Pro Git by Scott Chacon and Ben Straub
-- Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
+<ul>
+    <li>Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin </li>
+    <li>Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin </li>
+    <li>Clean Coder, The: A Code of Conduct for Professional Programmers by Robert C. Martin </li>
+    <li>Code Complete by Steve Mcconnell </li>
+    <li>Go Programming Language by Alan Donovan and Brian Kernighan </li>
+    <li>Learning Python by Mark Lutz </li>
+    <li>Algorithms by Panos Louridas </li>
+    <li>The Pragmatic Programmer: Your Journey To Mastery by David Thomas and Andrew Hunt </li>
+    <li>The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler </li>
+    <li>Pro Git by Scott Chacon and Ben Straub </li>
+    <li>Code: The Hidden Language of Computer Hardware and Software by Charles Petzold </li>
+</ul>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ganzeroar&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
