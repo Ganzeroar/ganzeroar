@@ -40,3 +40,5 @@
 - The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
 - Pro Git by Scott Chacon and Ben Straub
 - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ganzeroar)](https://git.io/streak-stats)
