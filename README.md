@@ -4,6 +4,9 @@
 <div class="header">
 <h1>About Me</h1>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap&width=800&height=500)
+
+
 <ul>
     <li>💡 I love thoroughly researching and understanding new technologies and digging into their inner workings </li>
     <li>⚙️ I prefer an engineering approach to problem solving, which involves a comprehensive study of the problem, developing various solutions, and choosing the most optimal one </li>
@@ -45,9 +48,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ganzeroar&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap)
-
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green](https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap)" />
-&nbsp;
-</div>
