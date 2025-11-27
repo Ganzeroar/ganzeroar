@@ -42,8 +42,3 @@
 <h1>LeetCode</h1>
 <img align="center" src="https://leetcard.jacoblin.cool/Ganzeroar?ext=heatmap" width="1000" height="350" alt="...">
 
-<h1></h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ganzeroar&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-
